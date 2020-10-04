@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 ok done nhe 2
 
+=======
+ok done nhe2
+ok done nhe 
+Cap nhat trang thai di ne
+>>>>>>> parent of 036a16c... Done lan 9
